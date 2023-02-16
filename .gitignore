@@ -1,9 +1,10 @@
 .vscode/c_cpp_properties.json
-Lista 12/B.c
-Lista 12/B.exe
-Lista 12/C.c
-Lista 12/C.exe
-Lista 12/D.c
-Lista 12/D.exe
-Lista 12/E.c
-Lista 12/E.exe
+
+*.json
+*.exe
+
+QuestoesProva/2018-2/4.c
+QuestoesProva/2016-2/6.c
+QuestoesProva/2016-2/5.c
+QuestoesProva/2016-2/4.c
+QuestoesProva/2016-2/3.c
