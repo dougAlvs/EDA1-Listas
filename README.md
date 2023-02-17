@@ -1,5 +1,7 @@
 # EDA1 - Listas
  Listas de exercícios desenvolvidas em C para a disciplina de Estrutura de Dados da Universidade de Brasília.
+ 
+ O trabalho final foi feito em dupla com Arthur Grandão de Mello.
 # Enunciados
 ## Lista 1 - Desenferrujando para o semestre
 * A - [Olá Mundo](https://moj.naquadah.com.br/contests/bcr-EDA1-2022_2-lista1-relembrando/olamundo.html)
